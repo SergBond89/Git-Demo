@@ -13,6 +13,6 @@ class SettingsViewController: UIViewController {
     @IBOutlet weak var ourTextLabel: UILabel!
     
     override func viewDidLoad() {
-        self.ourTextLabel.text = "Hello, New World!"
+        self.ourTextLabel.text = "Hello, New World!!!"
     }
 }
